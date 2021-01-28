@@ -1,0 +1,76 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: Yusei Magic;
+}
+
+div{
+  background-color: black;
+  opacity: 0.5;
+  width : 50%;
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+header{
+  text-align: center;
+}
+
+.logo{
+  width: 150px;
+  padding-top: 5%;
+}
+
+h1{
+  color: #7fff00;
+  font-size: 30px;
+}
+
+.contenitore {
+  display: inline-block;
+  background-color: #7fff00;
+  width: 50%;
+  padding-top: 5px;
+}
+
+button{
+  margin-bottom: 10px;
+}
+
+.outside{
+  width: 55%;
+  background-color: #7fff00;
+}
+
+nav{
+  color:white;
+  font-size: 18px;
+  text-align: left;
+  padding-left: 30%;
+  font-weight: bold;
+}
+
+input{
+  border-width: inherit;
+  border-radius: 5px;
+}
+span{
+display: block;
+}
+
+.orange {
+  width: 30%;
+  background-color: orange;
+}
+
+.green {
+  background-color: #7fff00;
+  width: 45%;
+}
+
+.red{
+  background-color: red;
+  width: 10%;
+}
